@@ -1,0 +1,36 @@
+.chung{
+    width: 300px;
+    height: 100px;
+    background-color: #696868;
+    border: 2px solid blue;
+    border-radius: 15px;
+}
+.khung{
+    background-color: #999;
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+}
+.khung1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.giua{
+    width: 200px;
+    height: 500px;
+    background-color: gray;
+    align-self: center;
+    border: 2px solid blue;
+    border-radius: 15px;
+    margin: 50px;
+}
+.duoi{
+    align-self: flex-end;;
+    margin: 50px 30px;    
+}
+.tren{
+    margin: 50px 30px;
+}
+
+
